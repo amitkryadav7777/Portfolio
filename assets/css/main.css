@@ -1001,7 +1001,12 @@ section,
   font-weight: 600;
   color: rgba(255, 255, 255, 0.8);
 }
-
+.portfolio-content{
+  box-shadow: 20px 20px 10px #b8a07e;
+}
+.portfolio-content:hover{
+  box-shadow: none;
+}
 .portfolio .portfolio-content .portfolio-info .preview-link,
 .portfolio .portfolio-content .portfolio-info .details-link {
   position: absolute;
