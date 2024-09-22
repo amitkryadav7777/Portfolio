@@ -1002,7 +1002,7 @@ section,
   color: rgba(255, 255, 255, 0.8);
 }
 .portfolio-content{
-  box-shadow: 20px 20px 10px #b8a07e;
+  box-shadow: 15px 15px 10px #b8a07e;
 }
 .portfolio-content:hover{
   box-shadow: none;
